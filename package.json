@@ -1,0 +1,25 @@
+{
+  "name": "final_photo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brittonb3/final_photo.git"
+  },
+  "author": "Britt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brittonb3/final_photo/issues"
+  },
+  "homepage": "https://github.com/brittonb3/final_photo#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-ejs-layouts": "^2.5.0",
+    "express-layouts": "^1.0.0"
+  }
+}
