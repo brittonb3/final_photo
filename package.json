@@ -17,9 +17,11 @@
   },
   "homepage": "https://github.com/brittonb3/final_photo#readme",
   "dependencies": {
+    "bootstrap": "^4.1.3",
     "ejs": "^2.6.1",
     "express": "^4.16.4",
     "express-ejs-layouts": "^2.5.0",
-    "express-layouts": "^1.0.0"
+    "express-layouts": "^1.0.0",
+    "nodemon": "^1.18.4"
   }
 }
