@@ -11,7 +11,7 @@
   height: 100vh;
   margin: 0;
   padding: 0;
-
+  background-attachment: scroll;
 }
 
 .buisness {
@@ -139,6 +139,20 @@
 @media (min-width: 768px) {
 
   /* ////// Index /////////// */
+  .back-img {
+    background-image: url('../img/Britt_home.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    height: 100%;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+  }
   .points {
     width: 33.33%;
     display: inline-flex;
