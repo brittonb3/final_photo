@@ -14,7 +14,7 @@
   background-attachment: scroll;
 }
 
-.buisness {
+.business {
   position: absolute;
   display: block;
   height: 100%;
@@ -25,6 +25,7 @@
 
 .flex-container {
   min-height: 100%;
+  padding-top: 35px;
   min-height: 100vh;
   display: flex;
   flex-direction: row;
@@ -34,7 +35,7 @@
   justify-content: space-around;
 }
 
-.buisness-link {
+.business-link {
   font-family: 'Cinzel', serif;
   display: inline-block;
   color: #fff;
@@ -45,7 +46,7 @@
   margin: 20px;
 }
 
-.buisness-link:hover {
+.business-link:hover {
   background-color: #03dbdb;
   color: #000;
   transform: scale(1.05);
@@ -71,7 +72,7 @@
   color: #03dbdb;
 }
 
-.buisness-h {
+.business-h {
   font-family: 'Cinzel', serif;
   margin-left: 10%;
   font-size: 16px;
